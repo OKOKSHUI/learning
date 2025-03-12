@@ -8,6 +8,10 @@
 
 **boots** : *靴子*
 
+**Put on boots** : *穿靴子,强调穿的动作*
+
+**Wear boots** : *强调穿着的状态*
+
 **look after** : *照顾,照看*
 
 **have a lot of fun** : *玩的很高兴,有许多乐趣*
@@ -51,6 +55,8 @@
 **to bed []** : *哄某人睡觉,让某人去睡觉*
 
 **throwing** : *扔,丢*
+
+**Throw away trash/garbage** : *扔垃圾*
 
 **welldone** : *做的好*
 
